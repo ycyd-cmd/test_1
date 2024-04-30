@@ -5,3 +5,6 @@ build:
     python: "3.10"
 sphinx:
    configuration: docus/source/conf.py  # sphinx配置文件路径
+python:
+  install:
+    - requirements: docs/requirements.txt
