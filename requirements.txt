@@ -1,76 +1,66 @@
-alabaster==0.7.16
-anyio==4.3.0
-Babel==2.14.0
-beautifulsoup4 @ file:///C:/ci/beautifulsoup4_1650293028159/work
-brotlipy @ file:///D:/bld/brotlipy_1648854347500/work
-certifi @ file:///C:/Windows/TEMP/abs_e9b7158a-aa56-4a5b-87b6-c00d295b01fanefpc8_o/croots/recipe/certifi_1655968940823/work/certifi
-cffi @ file:///D:/bld/cffi_1656782940775/work
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1655906222726/work
-click==8.1.7
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1655412516417/work
-commonmark==0.9.1
-cryptography @ file:///D:/bld/cryptography_1657174142266/work
-cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
-docutils==0.20.1
-docx==0.2.4
-exceptiongroup==1.2.1
-fonttools @ file:///D:/bld/fonttools_1657249488788/work
-greenlet @ file:///D:/bld/greenlet_1648882539921/work
-h11==0.14.0
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1642433548627/work
-imagesize==1.4.1
-Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
-kiwisolver @ file:///D:/bld/kiwisolver_1655141740116/work
-loguru @ file:///D:/bld/loguru_1649442989339/work
-lxml==4.9.1
-MarkupSafe @ file:///C:/ci/markupsafe_1654508036328/work
-matplotlib @ file:///D:/bld/matplotlib-suite_1651609712471/work
-munkres==1.1.4
-natsort @ file:///home/conda/feedstock_root/build_artifacts/natsort_1643636597628/work
-numpy @ file:///D:/bld/numpy_1657483944523/work
-opencv-python==4.6.0
-packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
-Pillow @ file:///D:/bld/pillow_1657007262169/work
-ply==3.11
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
-Pygments==2.17.2
-pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1643496850550/work
-pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
-PyQt5==5.15.7
-PyQt5-sip @ file:///D:/bld/pyqt-split_1657234606115/work/pyqt_sip
-PyQtWebEngine==5.15.4
-pyserial @ file:///home/conda/feedstock_root/build_artifacts/pyserial_1606128640882/work
-PySocks @ file:///D:/bld/pysocks_1648857426124/work
-python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
-python-docx==0.8.11
-qt-material @ file:///C:/Users/CassanR/Miniconda3/envs/admin/conda-bld/qt-material_1620377168657/work
-recommonmark==0.7.1
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1656534056640/work
-sip @ file:///D:/bld/sip_1655765040828/work
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
-sniffio==1.3.1
-snowballstemmer==2.2.0
-soupsieve @ file:///tmp/build/80754af9/soupsieve_1636706018808/work
-Sphinx==7.3.7
-sphinx-autobuild==2024.4.16
-sphinx-rtd-theme==2.0.0
-sphinxcontrib-applehelp==1.0.8
-sphinxcontrib-devhelp==1.0.6
-sphinxcontrib-htmlhelp==2.0.5
-sphinxcontrib-jquery==4.1
-sphinxcontrib-jsmath==1.0.1
-sphinxcontrib-qthelp==1.0.7
-sphinxcontrib-serializinghtml==1.1.10
-SQLAlchemy @ file:///D:/bld/sqlalchemy_1656116070260/work
-starlette==0.37.2
-toml @ file:///tmp/build/80754af9/toml_1616166611790/work
-tomli==2.0.1
-tornado @ file:///D:/bld/tornado_1656937966227/work
-typing_extensions==4.11.0
-unicodedata2 @ file:///D:/bld/unicodedata2_1649112137711/work
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1657224465922/work
-uvicorn==0.29.0
-watchfiles==0.21.0
-websockets==12.0
-win-inet-pton @ file:///D:/bld/win_inet_pton_1648771897787/work
-win32-setctime @ file:///home/conda/feedstock_root/build_artifacts/win32_setctime_1642883564726/work
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+alabaster=0.7.16=pyhd8ed1ab_0
+anyio=4.3.0=pyhd8ed1ab_0
+babel=2.14.0=pyhd8ed1ab_0
+bzip2=1.0.8=hcfcfb64_5
+ca-certificates=2024.2.2=h56e8100_0
+certifi=2024.2.2=pyhd8ed1ab_0
+charset-normalizer=3.3.2=pyhd8ed1ab_0
+click=8.1.7=win_pyh7428d3b_0
+colorama=0.4.6=pyhd8ed1ab_0
+commonmark=0.9.1=py_0
+docutils=0.20.1=py310h5588dad_3
+exceptiongroup=1.2.0=pyhd8ed1ab_2
+future=1.0.0=pyhd8ed1ab_0
+h11=0.14.0=pyhd8ed1ab_0
+idna=3.7=pyhd8ed1ab_0
+imagesize=1.4.1=pyhd8ed1ab_0
+importlib-metadata=7.1.0=pyha770c72_0
+jinja2=3.1.3=pyhd8ed1ab_0
+libffi=3.4.2=h8ffe710_5
+libsqlite=3.45.3=hcfcfb64_0
+libzlib=1.2.13=hcfcfb64_5
+livereload=2.6.3=pyh9f0ad1d_0
+markupsafe=2.1.5=py310h8d17308_0
+openssl=3.2.1=hcfcfb64_1
+packaging=24.0=pyhd8ed1ab_0
+pip=24.0=pyhd8ed1ab_0
+pygments=2.17.2=pyhd8ed1ab_0
+python=3.10.14=h4de0772_0_cpython
+python_abi=3.10=4_cp310
+pytz=2024.1=pyhd8ed1ab_0
+recommonmark=0.7.1=pyhd8ed1ab_0
+requests=2.31.0=pyhd8ed1ab_0
+setuptools=69.5.1=pyhd8ed1ab_0
+six=1.16.0=pyh6c4a22f_0
+sniffio=1.3.1=pyhd8ed1ab_0
+snowballstemmer=2.2.0=pyhd8ed1ab_0
+sphinx=7.3.7=pyhd8ed1ab_0
+sphinx-autobuild=2024.4.16=pyhd8ed1ab_0
+sphinx_rtd_theme=2.0.0=pyha770c72_0
+sphinxcontrib-applehelp=1.0.8=pyhd8ed1ab_0
+sphinxcontrib-devhelp=1.0.6=pyhd8ed1ab_0
+sphinxcontrib-htmlhelp=2.0.5=pyhd8ed1ab_0
+sphinxcontrib-jquery=4.1=pyhd8ed1ab_0
+sphinxcontrib-jsmath=1.0.1=pyhd8ed1ab_0
+sphinxcontrib-qthelp=1.0.7=pyhd8ed1ab_0
+sphinxcontrib-serializinghtml=1.1.10=pyhd8ed1ab_0
+starlette=0.37.2=pyhd8ed1ab_0
+tk=8.6.13=h5226925_1
+tomli=2.0.1=pyhd8ed1ab_0
+tornado=6.4=py310h8d17308_0
+typing_extensions=4.11.0=pyha770c72_0
+tzdata=2024a=h0c530f3_0
+ucrt=10.0.22621.0=h57928b3_0
+urllib3=2.1.0=py310haa95532_0
+uvicorn=0.29.0=py310h5588dad_0
+vc=14.3=hcf57466_18
+vc14_runtime=14.38.33130=h82b7239_18
+vs2015_runtime=14.38.33130=hcb4865c_18
+watchfiles=0.21.0=py310h87d50f1_0
+websockets=12.0=py310h8d17308_0
+wheel=0.43.0=pyhd8ed1ab_1
+xz=5.2.6=h8d14728_0
+zipp=3.17.0=pyhd8ed1ab_0
