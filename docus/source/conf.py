@@ -6,6 +6,12 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
+from recommonmark.parser import CommonMarkParser
+source_parsers = {
+    '.md': CommonMarkParser,
+}
+source_suffix = ['.rst', '.md']
+
 project = 'tabledoucs'
 copyright = '2024, ycyd'
 author = 'ycyd'
@@ -24,5 +30,5 @@ language = 'zh_CN'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+html_theme = "sphinx_rtd_theme"
 html_static_path = ['_static']
